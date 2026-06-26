@@ -1,0 +1,17 @@
+{
+  "output_folder": "C:\\Users\\rargr\\OneDrive\\Documents\\FB Page\\GeminiArtworkStudio\\output",
+  "tile_size": 512,
+  "preferred_model": "realesrgan-x4plus",
+  "preferred_exports": [
+    "Poster",
+    "Puzzle",
+    "DeskMat"
+  ],
+  "theme": "dark",
+  "cpu_threads": 11,
+  "upscale_target": "16384",
+  "crop_mode": "center",
+  "jpeg_quality": 95,
+  "window_width": 1280,
+  "window_height": 800
+}
